@@ -1,1 +1,1 @@
-# fsd-template
+# FSD Template
